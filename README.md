@@ -14,7 +14,7 @@ This repository contains my notes, resources, and learnings from the **Ethical H
 
 - 📁 `Day-01/` – Linux basic commands and Linux file permissions
 - 📁 `Day-02/` - Bash scripting and Network interfaces
-
+- 📁 `Day-03/` - Service Commands & Web Server
 ## 🧠 Objectives
 
 - Build a strong foundation in cybersecurity and ethical hacking
@@ -27,9 +27,8 @@ This repository contains my notes, resources, and learnings from the **Ethical H
 | Day | Topic                       | Status     |
 |------|-----------------------------|------------|
 | 1    | Linux basic commands and Linux file permissions    | ✅ Completed |
-| 2    | Bash scripting and Network interfaces | ⏳ In Progress |
-| ...  | ...                         | ...        |
-
+| 2    | Bash scripting and Network interfaces | ✅ Completed |
+| 3    | Service Commands & Web Server  | ✅ Completed|
 ## 📌 Disclaimer
 
 This repository is for **educational purposes only**. All tools and techniques should only be used in **authorized environments**. Unauthorized access or activity is **illegal and unethical**.
