@@ -1,4 +1,4 @@
-# 📝 Day03 – Service Commands & Web Server Notes
+# 📝 Day03 – Service Commands & Web Server 
 
 ---
 
