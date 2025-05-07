@@ -87,3 +87,17 @@ http://localhost
 or
 <ip-address>
 ```
+## Commands used:
+```
+# Service management
+sudo systemctl status apache2        # Check Apache service status
+sudo systemctl start apache2         # Start Apache service
+
+# SSH installation and usage
+sudo apt install openssh-server      # Install SSH server
+sudo systemctl status ssh            # Check SSH status
+ssh username@ipaddress              # SSH login
+
+# Apache setup
+sudo apt install apache2             # Install Apache web server
+
